@@ -1,0 +1,13 @@
+{
+ "generator-jhipster": {
+   "promptValues": {
+     "packageName": "clarivate.jhipster"
+   },
+ "jhipsterVersion": "5.8.2",
+ "baseName": "firstApp",
+ "packageName": "clarivate.jhipster",
+ "packageFolder": "clarivate/jhipster",
+ "clientPackageManager": "npm",
+ "buildTool": "gradle"
+ }
+}

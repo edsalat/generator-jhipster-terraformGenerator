@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "edsalat",
+      "authorName": "edward salatovka",
+      "authorEmail": "edward.salatovka@clarivate.com",
+      "authorUrl": "edwardpage.com"
+    }
+  }
+}
